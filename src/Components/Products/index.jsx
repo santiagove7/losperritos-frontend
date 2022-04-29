@@ -1,16 +1,19 @@
 import React from "react";
 import {ProductsData} from '../../Data/ProductsData'
-import './styles.module.scss'
+import styles from './styles.module.scss'
 
 const Products = () => {
     return (
-        <div>
+        <div className={styles.productsContainer}>
             {ProductsData.map((product, i) => (
-                <div key={i}>
+                <div key={i} className={styles.product}>
                     <img src={product.img} alt="{product.name}" />
                     <div>
                         <p>
-                            {product.name} - ${product.price}
+                            {product.name}
+                        </p>
+                        <p>
+                            ${product.price}
                         </p>
                     </div>
                     <button onClick={()=> console.log(product)}>Agregar a Carrito</button>
