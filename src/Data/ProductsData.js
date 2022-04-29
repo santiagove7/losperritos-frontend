@@ -18,14 +18,14 @@ export const ProductsData = [
         price: 8.500,
         amount: 0,
         name: "Perro Sencillo",
-        img: "https://scontent.feoh4-3.fna.fbcdn.net/v/t1.6435-9/97060781_3114213081969298_2520157131345231872_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=9267fe&_nc_eui2=AeGJr-RU6rZ0wvh8WXWQx_EU9SUcDOSpxmD1JRwM5KnGYCYZXWqpfjU0FQTCy7eDZIymM2YOR1U52YrSwFXacsG7&_nc_ohc=BoD1Mldl8N0AX82Uy3P&_nc_ht=scontent.feoh4-3.fna&oh=00_AT9FKVR8K6vegh8J2OVcjotSMyGC1GgvFsF8q-Li6ees_w&oe=62931219",
+        img: "https://scontent.feoh4-4.fna.fbcdn.net/v/t1.6435-9/116280833_3299415626782375_7619124732840130630_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHHGtYbdk5hu4U-nOVZdvdv-EZuuh44S7r4Rm66HjhLupuyYWmd9jurcxWrMa_zGKVIVQueppDU-DB6oKvZ4OjP&_nc_ohc=w38aS8y9_eAAX8btmV5&tn=Nese8o0fxp82bwTG&_nc_ht=scontent.feoh4-4.fna&oh=00_AT-azgWWc-VZM6aNfi1MxiPqTsl5EbU6DA37bfkCSRYiJw&oe=62914B83",
     },
     {
         id: 4,
         price: 12.500,
         amount: 0,
         name: "Perro Super",
-        img: "https://scontent.feoh4-4.fna.fbcdn.net/v/t1.6435-9/96795102_3108226565901283_3760912783034548224_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=9267fe&_nc_eui2=AeHI4bi7_lZVxXQgmX7WumCHaY1xbetjZyNpjXFt62NnI4ph3IcwweRXUhl2UHHAQ4zTAslOMB6nZy_X1KCo-jNs&_nc_ohc=56A2u2yrqrcAX-XyI5v&_nc_ht=scontent.feoh4-4.fna&oh=00_AT-aWB4nAAKaluEp9rg49IFWgVgyGC9Wh0AeMZQNtQt7sQ&oe=6290F5E8",
+        img: "https://scontent.feoh4-4.fna.fbcdn.net/v/t39.30808-6/274554932_5063805380343382_5018588772167601835_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeEGYD8RAHD3sDKQX-OD3WrssKgb8UIOExqwqBvxQg4TGigQHrBpynADjBZSSKQxejs2h35o1OYuxmVB_PRkaXgj&_nc_ohc=1gvEsa6uEi4AX9YvaSc&_nc_ht=scontent.feoh4-4.fna&oh=00_AT9J7iHLB4Ixtvx9fWC05xq9r_4tkVrSWO2P16Gcn8-3Xw&oe=6271A2A5",
     },
     {
         id: 5,
