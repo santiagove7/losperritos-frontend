@@ -18,7 +18,7 @@ export const ProductsData = [
         price: 8.500,
         amount: 0,
         name: "Perro Sencillo",
-        img: "https://scontent.feoh6-1.fna.fbcdn.net/v/t31.18172-8/323302_481445995246033_997389284_o.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFc3PzjILfoDt8HSvWK2uKr3mIqCiBvAPzeYioKIG8A_HNgpe-kBJdAlkpX0hGpK2K78JzKpiJ_gfNwI94F1Uu6&_nc_ohc=KnSDZm2AqDoAX8hQKDh&_nc_ht=scontent.feoh6-1.fna&oh=00_AT8DNZqaj2FujlaknWTMHVAViv7CTfbIiVy-pw_khYI-Yw&oe=62BE71AF",
+        img: "https://scontent.feoh6-1.fna.fbcdn.net/v/t1.6435-9/97060781_3114213081969298_2520157131345231872_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeE2qWB19Q0XR6z63yDFAIaM9SUcDOSpxmD1JRwM5KnGYA4-lZ7cqfQUjX5ncoJB_012FY3ANNUkmupK2sUiZsLS&_nc_ohc=4fnlzTEk2pQAX_UitGq&_nc_ht=scontent.feoh6-1.fna&oh=00_AT_fZK9oFFcRsZ7RYZvabzpqqX2IRY_sf7yqjEUi2VuBQw&oe=62BE9399",
     },
     {
         id: 4,
@@ -29,10 +29,17 @@ export const ProductsData = [
     },
     {
         id: 5,
-        price: 5.900,
+        price: 6.000,
         amount: 0,
         name: "Porción de Papas",
         img: "https://scontent.feoh6-1.fna.fbcdn.net/v/t39.30808-6/274715802_5070076119716308_4170852015525030876_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeG28KmZuD9d-4twpdde4DSrtv9-3FDDp4u2_37cUMOni74ipaZbAPbtH8TdsobxRAhKt0Sib7yvHXek16TWAH-9&_nc_ohc=NtRUuJktVvYAX_NjfNx&_nc_ht=scontent.feoh6-1.fna&oh=00_AT8GD2clewQaXDgR_h1J0hA72WjuX6eJv1ev7x7vE8CKyg&oe=629F685C",
+    },
+    {
+        id: 6,
+        price: 25.000,
+        amount: 0,
+        name: "Combo Promo",
+        img: "https://scontent.feoh6-1.fna.fbcdn.net/v/t1.6435-9/106984148_3253762598014345_8362930463919634809_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeE1uGnpQARABQka2OwhtAXCSayi_ZFVy2ZJrKL9kVXLZuBTCOcFTXntDJmWuVH6XSKLPB2ULefFOjz0mwpkkJ3u&_nc_ohc=348En9KeaTMAX8ixExc&_nc_oc=AQmlaOpJmCfWjoQrGtJezWTgjW9IXoMPzI-fFX_H4c5atIMqW7ZJ5Iadq2diAKE5JA4&_nc_ht=scontent.feoh6-1.fna&oh=00_AT_UZt6qmQFWaRhzp5RH_eoU8aZh_5G2XphyTXE2C1IudA&oe=62C14E1B",
     },
 
 ]
