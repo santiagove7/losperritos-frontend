@@ -1,4 +1,4 @@
-import { cleanup } from "@testing-library/react";
+//import { cleanup } from "@testing-library/react";
 import { createContext, useEffect, useState } from "react";
 
 export const CartContext = createContext()
@@ -47,7 +47,7 @@ export const CartProvider = ({children}) => {
                 );
             } else {
                 setCartItems(cartItems.map((productInCart) => {
-                    if (productInCart.id ==product.id){
+                    if (productInCart.id === product.id){
                         return { ...inCart, amount: inCart.amount -1};
                     } else return productInCart;
                 }));
