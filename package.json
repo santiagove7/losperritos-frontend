@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "docker:build": "docker build -t los-perritos-frontend .",
-    "docker:run": "docker run -p 3000:3000 -d los-perritos"
+    "docker:run": "docker run -p 3000:3000 -d los-perritos-frontend"
   },
   "eslintConfig": {
     "extends": [
